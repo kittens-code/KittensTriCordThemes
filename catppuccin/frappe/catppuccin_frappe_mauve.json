@@ -2,7 +2,7 @@
     "name": "Catppuccin Frappe - Mauve",
     "author": "Kitten :3",
     "description": "Soothing pastel theme for TriCord",
-    "update_url": "https://raw.githubusercontent.com/kittens-code/KittensTriCordThemes/refs/heads/main/catppuccin_frappe_mauve.json",
+    "update_url": "https://raw.githubusercontent.com/kittens-code/KittensTriCordThemes/refs/heads/main/catppuccin/frappe/catppuccin_frappe_mauve.json",
     "colors": {
         "ui": {
             "background": "#303446",

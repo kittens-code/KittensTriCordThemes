@@ -2,7 +2,7 @@
     "name": "Catppuccin Macchiato - Mauve",
     "author": "Kitten :3",
     "description": "Soothing pastel theme for TriCord",
-    "update_url": "https://raw.githubusercontent.com/kittens-code/KittensTriCordThemes/refs/heads/main/catppuccin_macchiato_mauve.json",
+    "update_url": "https://raw.githubusercontent.com/kittens-code/KittensTriCordThemes/refs/heads/main/catppuccin/macchiato/catppuccin_macchiato_mauve.json",
     "colors": {
         "ui": {
             "background": "#24273a",
