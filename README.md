@@ -2,7 +2,7 @@
 
 This repo contains my themes for ![TriCord](https://github.com/2b-zipper/TriCord), the 3DS Discord client. 
 
-# List of themes
+## List of themes
 
 - Catppuccin
   - Mocha (Mauve, Pink, more flavors coming soon)
