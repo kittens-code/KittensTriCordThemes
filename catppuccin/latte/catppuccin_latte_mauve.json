@@ -1,0 +1,35 @@
+{
+    "name": "Catppuccin Latte - Mauve",
+    "author": "Kitten :3",
+    "description": "Soothing pastel theme for TriCord",
+    "update_url": "https://raw.githubusercontent.com/kittens-code/KittensTriCordThemes/refs/heads/main/catppuccin_latte_mauve.json",
+    "colors": {
+        "ui": {
+            "background": "#eff1f5",
+            "background_dark": "#e6e9ef",
+            "background_light": "#bcc0cc",
+            "accent": "#8839ef",
+            "selection": "#8839ef",
+            "separator": "#7c7f93",
+            "header_border": "#4c4f69",
+            "overlay": "#e6e9ef80",
+            "pure_white": "#4c4f69"
+        },
+        "text": {
+            "main": "#4c4f69",
+            "muted": "#7c7f93",
+            "link": "#1e66f5"
+        },
+        "discord": {
+            "embed_bg": "#ccd0da",
+            "embed_media_bg": "#ccd0da",
+            "reaction_bg": "#bcc0cc",
+            "reaction_me_bg": "#8839ef",
+            "input_bg": "#eff1f5"
+        },
+        "status": {
+            "success": "#40a02b",
+            "error": "#d20f39"
+        }
+    }
+}

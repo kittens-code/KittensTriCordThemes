@@ -1,0 +1,35 @@
+{
+    "name": "Catppuccin Macchiato - Mauve",
+    "author": "Kitten :3",
+    "description": "Soothing pastel theme for TriCord",
+    "update_url": "https://raw.githubusercontent.com/kittens-code/KittensTriCordThemes/refs/heads/main/catppuccin_macchiato_mauve.json",
+    "colors": {
+        "ui": {
+            "background": "#24273a",
+            "background_dark": "#1e2030",
+            "background_light": "#494d64",
+            "accent": "#c6a0f6",
+            "selection": "#c6a0f6",
+            "separator": "#939ab7",
+            "header_border": "#cad3f5",
+            "overlay": "#1e203080",
+            "pure_white": "#cad3f5"
+        },
+        "text": {
+            "main": "#cad3f5",
+            "muted": "#939ab7",
+            "link": "#8aadf4"
+        },
+        "discord": {
+            "embed_bg": "#363a4f",
+            "embed_media_bg": "#363a4f",
+            "reaction_bg": "#494d64",
+            "reaction_me_bg": "#c6a0f6",
+            "input_bg": "#24273a"
+        },
+        "status": {
+            "success": "#a6da95",
+            "error": "#ed8796"
+        }
+    }
+}
