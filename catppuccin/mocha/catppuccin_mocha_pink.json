@@ -1,0 +1,35 @@
+{
+    "name": "Catppuccin Mocha - Pink",
+    "author": "Kitten :3",
+    "description": "Soothing pastel theme for TriCord",
+    "update_url": "https://raw.githubusercontent.com/kittens-code/KittensTriCordThemes/refs/heads/main/catppuccin_mocha_pink.json",
+    "colors": {
+        "ui": {
+            "background": "#1e1e2e",
+            "background_dark": "#181825",
+            "background_light": "#45475a",
+            "accent": "#f5c2e7",
+            "selection": "#f5c2e7",
+            "separator": "#9399b2",
+            "header_border": "#cdd6f4",
+            "overlay": "#18182580",
+            "pure_white": "#cdd6f4"
+        },
+        "text": {
+            "main": "#cdd6f4",
+            "muted": "#9399b2",
+            "link": "#89b4fa"
+        },
+        "discord": {
+            "embed_bg": "#313244",
+            "embed_media_bg": "#313244",
+            "reaction_bg": "#45475a",
+            "reaction_me_bg": "#f5c2e7",
+            "input_bg": "#1e1e2e"
+        },
+        "status": {
+            "success": "#a6e3a1",
+            "error": "#f38ba8"
+        }
+    }
+}
