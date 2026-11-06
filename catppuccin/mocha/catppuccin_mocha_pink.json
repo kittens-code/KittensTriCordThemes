@@ -7,11 +7,11 @@
         "ui": {
             "background": "#1e1e2e",
             "background_dark": "#181825",
-            "background_light": "#45475a",
+            "background_light": "#313244",
             "accent": "#f5c2e7",
             "selection": "#f5c2e7",
             "separator": "#9399b2",
-            "header_border": "#cdd6f4",
+            "header_border": "#a6adc8",
             "overlay": "#18182580",
             "pure_white": "#1e1e2e"
         },
